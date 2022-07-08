@@ -5,6 +5,7 @@ body
 	color: #000;
 	font-family: sans-serif;
 	background-image: url(pic3.jpg);
+	background-repeat: none;
 	/*background-size: cover;*/
 	/*background-position: center;
 	background-repeat: no-repeat;*/
